@@ -16,7 +16,7 @@ Of particular interest to me during this project was learning how different test
 
 ##Collaborators
 
-[Josh Bebbington](https://github.com/bebbs) and [Steph Oldcorn](https://github.com/) of the December '14 cohort at [Makers Academy](https://www.makersacademy.com
+[Josh Bebbington](https://github.com/bebbs) and [Steph Oldcorn](https://github.com/) of the December '14 cohort at [Makers Academy](https://www.makersacademy.com)
 
 ##How to run
 Clone the repository and change into the new directory:
